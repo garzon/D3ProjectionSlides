@@ -37,6 +37,3 @@ core-toolbar {
   width: 80%;
   text-align: right;
 }
-img {
-  width: 100%;
-}

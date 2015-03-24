@@ -42,3 +42,6 @@
       vertical-align: bottom;
 }
 
+img {
+      width: 100%;
+}
