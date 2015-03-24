@@ -11,6 +11,9 @@
             ["h1","3D Projection"],
             [""],
             ["Garzon Ou"],
+            [""],
+            ["a", "http://garzon.github.io/D3ProjectionSlides"],
+            [""],
             ["13307130320@fudan.edu.cn"]
         ]
     ],
@@ -26,7 +29,7 @@
     [
         {},
         [
-            ["h1", "Coordinate"],
+            ["h1", "Coordinates"],
             ["img", "slides/images/coor.png"]
         ]
     ],
@@ -49,6 +52,14 @@
             ["latex", "\\vec{b_X}=f*tan(FOV_X)*(-sin(\\theta), cos(\\theta), 0)"],
             ["latex", "\\vec{b_Y}=f*tan(FOV_Y)*(-cos(\\theta)sin(\\phi), -sin(\\theta)sin(\\phi), cos(\\phi))"],
             ["img", "slides/images/base.png"]
+        ]
+    ],
+
+    [
+        { "template": "cover" },
+        [
+            ["h1", "Q&A"],
+            ["Thanks!"]
         ]
     ]
 ]
