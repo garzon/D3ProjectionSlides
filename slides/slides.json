@@ -6,52 +6,61 @@
     },
 
     [
+        {},
+        [
+            ["h1", "任务"],
+            ["1) 原始数据集和典型图像筛选"],
+            ["2) 基于视频的logo检测技术"],
+            ["3) 基于视频的logo识别技术"],
+            ["4) 基于视频的logo检测与识别原型系统"]
+        ]
+    ],
+
+    [
+        {},
+        [
+            ["h1", "目前阶段的主要任务"],
+            ["1、找论文、读论文、讲论文"],
+            ["2、数据爬取工具和数据集准备"]
+        ]
+    ],
+
+    [
         { "template": "cover" },
         [
-            ["h1","3D Projection"],
-            [""],
-            ["Garzon Ou"],
-            [""],
-            ["a", "http://garzon.github.io/D3ProjectionSlides"],
-            [""],
-            ["13307130320@fudan.edu.cn"]
+            ["h1", "git的讲解练习"]
         ]
     ],
 
     [
         {},
         [
-            ["h1", "Introduction"],
-            ["img", "slides/images/intro.png"]
+            ["h1", "版本控制"],
+            ["img", "slides/images/git1.png"]
         ]
     ],
 
     [
         {},
         [
-            ["h1", "Coordinates"],
-            ["img", "slides/images/coor.png"]
+            ["h1", "分支"],
+            ["img", "slides/images/git2.png"]
         ]
     ],
 
     [
         {},
         [
-            ["h1", "Equation"],
-            ["latex", "z(\\vec{c}-\\vec{s})+\\vec{c}=\\vec{c}+\\vec{f}+x\\vec{b_X}+y\\vec{b_Y}"],
-            ["latex", "[\\vec{b_X}\\ \\vec{b_Y}\\ (\\vec{s}-\\vec{c})][x\\ y\\ z]^T = -\\vec{f}"],
-            ["img", "slides/images/equation.png"]
+            ["h1", "远程仓库"],
+            ["img", "slides/images/git3.png"]
         ]
     ],
 
     [
         {},
         [
-            ["h1", "Base"],
-            ["latex", "\\vec{f}=f*(-cos(\\theta)cos(\\phi), -sin(\\theta)cos(\\phi), -sin(\\phi))"],
-            ["latex", "\\vec{b_X}=f*tan(FOV_X)*(-sin(\\theta), cos(\\theta), 0)"],
-            ["latex", "\\vec{b_Y}=f*tan(FOV_Y)*(-cos(\\theta)sin(\\phi), -sin(\\theta)sin(\\phi), cos(\\phi))"],
-            ["img", "slides/images/base.png"]
+            ["h1", "协作流程"],
+            ["img", "slides/images/git4.png"]
         ]
     ],
 
